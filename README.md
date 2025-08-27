@@ -2,7 +2,7 @@
 
 ## Bem vindo ao meu perfil GitHub.
 
-- Atualmente trabalho na Icarotech como Analista de Suporte Jr;
+- Atualmente trabalho na Icarotech como Analista de Sistemas Jr;
 - Estou focando meus estudos em:</br>  
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" heigh="40"/>
   
